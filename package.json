@@ -1,0 +1,16 @@
+{
+  "name": "optimax-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "start": "npm run test"
+  },
+  "author": "Amir Musaev",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^28.1.2",
+    "ts-jest": "^28.0.5"
+  }
+}
